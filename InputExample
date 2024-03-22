@@ -1,0 +1,13 @@
+imageFile	GCHVC_imcontsub_convolved.fits
+logFile		logfile.txt
+outFile		results.txt
+spectraFile	spectra.ps
+minPix		10
+flagATrous	1
+snrRecon	5.
+snrCut		3.
+minChannels	5
+flagSmooth      1
+flagBaseline    1
+flagOutputMomentMask 1
+flagOutputMomentMap  1
