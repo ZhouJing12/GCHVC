@@ -13,3 +13,5 @@ Galactic Center High Velocity Clouds - Expansion of Galactic center outflow: FAS
 6. Compare FAST data and GBT data extracted from article pdf file. (compare_GBT.ipynb)
 
 7. Generate biconical outflow model seen from sun location. (outflow_model.ipynb)
+
+The example file can be downloaded from http://gofile.me/5iK1o/UViZL5JQ5
